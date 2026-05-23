@@ -1,0 +1,44 @@
+Alex Chen
+Machine Learning Engineer | alex.chen@email.com | linkedin.com/in/alexchen | github.com/alexchen
+
+SUMMARY
+Results-driven Machine Learning Engineer with 4+ years of experience building and deploying production ML systems. Passionate about MLOps, model optimization, and scalable AI infrastructure. Reduced inference latency by 40% at previous role and shipped 3 models to production serving 2M+ users.
+
+EXPERIENCE
+
+Senior ML Engineer — DataFlow AI, San Francisco, CA (2022–Present)
+- Designed and deployed end-to-end ML pipelines using Kubeflow and Airflow, reducing model deployment time by 60%
+- Built real-time recommendation system with TensorFlow Serving, improving CTR by 18%
+- Led MLOps migration: containerized 12 models using Docker and Kubernetes, cutting infrastructure costs by $120K/year
+- Mentored 3 junior engineers on best practices for feature engineering and model monitoring
+- Implemented A/B testing framework that ran 25+ experiments across recommendation and ranking models
+
+ML Engineer — TechStartup Inc, New York, NY (2020–2022)
+- Developed NLP text classification pipelines using BERT and scikit-learn for content moderation
+- Built automated feature engineering framework reducing manual effort by 70%
+- Collaborated with data engineers to build Spark-based training data pipelines on AWS
+- Achieved 94% accuracy on multi-label classification task using ensemble methods
+
+SKILLS
+Python, TensorFlow, PyTorch, scikit-learn, Keras, MLflow, Kubeflow, Airflow
+Docker, Kubernetes, AWS (SageMaker, S3, EC2), GCP (Vertex AI), CI/CD, Git
+SQL, Spark, Kafka, Feature Store, Model Monitoring, REST API, FastAPI
+Machine Learning, Deep Learning, NLP, Computer Vision, Model Deployment
+Statistics, Linear Algebra, A/B Testing, Feature Engineering
+
+EDUCATION
+M.S. Computer Science — Stanford University (2020)
+B.S. Electrical Engineering — UC Berkeley (2018)
+
+PROJECTS
+• ResumeRank: Built ML-powered resume ranking system using TF-IDF + Logistic Regression. Deployed on AWS with FastAPI.
+• SentimentPro: Real-time sentiment analysis pipeline processing 50K tweets/day. BERT fine-tuned on custom dataset.
+• AutoFeature: Open-source automated feature engineering library (500+ GitHub stars).
+
+CERTIFICATIONS
+• AWS Certified Machine Learning Specialty (2023)
+• Google Professional ML Engineer (2022)
+• Deep Learning Specialization — Coursera (2020)
+
+PUBLICATIONS
+• "Efficient Model Serving at Scale" — MLSys Workshop 2023
