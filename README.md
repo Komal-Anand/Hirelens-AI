@@ -13,7 +13,7 @@
 
 *Bridging Academic Machine Learning Theory and Enterprise Talent Operations with Glassmorphism UX.*
 
-[🚀 Live Application Demo](http://localhost:8501) · [📖 Read Technical Specs](#2-overview) · [💡 Open Syllabus Mapping](#course-syllabus-mapping-csm354)
+[🚀 Live Application Demo](https://hirelens-ai-recruit.streamlit.app/) · [📖 Read Technical Specs](#2-overview) · [💡 Open Syllabus Mapping](#course-syllabus-mapping-csm354)
 
 ---
 
