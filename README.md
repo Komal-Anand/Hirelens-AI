@@ -257,8 +257,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙌 Contributors
 
-*   **Your Name** - Core Developer / Machine Learning Engineer
-*   **CSM354 Practical Faculty** - Mentorship & Syllabus Design
+*   **Your Name** - KOMAL ANAND
+*   **CSM354 Practical Faculty** - KARAN KUMAR DAS
 
 ---
 
